@@ -1,5 +1,5 @@
 # WHOIS-Domain-Lookup
 
-Simply use of the whois library in python getting specific data from a list of sites inserted in a list.
+Simply use the whois library in Python to retrieve specific data from a list of sites inserted in a list. To use it, set up the sites inside the list using either the domain name, like site.com, or the IP address.
 
-How to use: Set up the sites inside the list using: "site.com" or the IP address.
+
