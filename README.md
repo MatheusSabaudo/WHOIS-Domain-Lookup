@@ -1,6 +1,6 @@
 # WHOIS Domain Lookup
 
-**WHOIS-Domain-Lookup** is a simple Python tool that allows users to query WHOIS data for domain names — returning registration and ownership information such as registrar, creation date, expiration date, name servers, and more. WHOIS is a protocol used to look up publicly available domain registration records maintained by registries worldwide. :contentReference[oaicite:0]{index=0}
+**WHOIS-Domain-Lookup** is a simple Python tool that allows users to query WHOIS data for domain names — returning registration and ownership information such as registrar, creation date, expiration date, name servers, and more. WHOIS is a protocol used to look up publicly available domain registration records maintained by registries worldwide.
 
 ## 📌 Features
 
