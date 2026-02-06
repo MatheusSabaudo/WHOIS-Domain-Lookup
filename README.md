@@ -45,13 +45,13 @@ You’ll be prompted to enter domain(s) for lookup (e.g., example.com, github.co
 
 **Example Output:**
 ```bash
-    Domain: example.com
-    Registrar: Example Registrar, LLC
-    Created: 1995-08-13
-    Expires: 2026-08-12
-    Name Servers:
-    - ns1.example.com
-    - ns2.example.com
+Domain: example.com
+Registrar: Example Registrar, LLC
+Created: 1995-08-13
+Expires: 2026-08-12
+Name Servers:
+- ns1.example.com
+- ns2.example.com
 ```
 (Actual output depends on the whois library API and domain queried.)
 
